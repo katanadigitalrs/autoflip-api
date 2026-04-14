@@ -1,0 +1,6 @@
+{
+  "name": "autoflip-api",
+  "version": "1.0.0",
+  "description": "AutoFlip AI - Serverless scraper za auto oglase",
+  "private": true
+}
